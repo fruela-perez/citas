@@ -12,6 +12,10 @@ Funciona en Linux y OS X (a lo mejor incluso en Windows, pero no me consta xD).
 
 ## Instalación
 
++ Instalar requerimientos, si es necesario:<br/><br/>
+  Linux: `sudo apt-get update && sudo apt-get -y php php-cli`<br/>
+  OS X: `brew install php`<br>
+  
 + Clonar el repositorio:<br/><br/>
   `cd /ruta/`<br/>
   `git clone https://github.com/fruela-perez/citas.git` 
