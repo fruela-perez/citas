@@ -1,5 +1,9 @@
 # citas
-Imprime una cita *random* extraída de un archivo de texto al abrir una terminal
+
+**Yet another fortune-like programilla** 
+
+Imprime una cita *random* extraída de un archivo de texto al abrir una terminal.
+
 Funciona en Linux y OS X (a lo mejor incluso en Windows, pero no me consta xD).
 
 ## Requerimientos
