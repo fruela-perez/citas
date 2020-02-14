@@ -27,7 +27,10 @@
 		
 		echo "\n";
 		echo $fragmentos[1];
+
+		echo "\033[1m";
 		echo $fragmentos[0];
+		echo "\033[0m";
 	}
 ?>
 
