@@ -24,13 +24,8 @@
 	{
 		$fragmentos = explode ( "#", str_replace ( "\n", "", $linea ) );
 		
-		echo "\n"     .  romperLineas ( "«" . $fragmentos[1] . "»" ) . "\n";
+		echo "\n" . wordwrap ( "«" . $fragmentos[1] . "»", str_replace ( "\n", "", shell_exec ( 'tput cols' ) ), "\n", false ) . "\n";
 		echo "\033[1m" . $fragmentos[0] . "\033[0m"; // Autor en negrita
 		echo "\n\n";
-}
-
-	function romperLineas ( $text ) 
-	{                
-	     return wordwrap ( $text, str_replace ( "\n", "", shell_exec ( 'tput cols' ) ), "\n", false );
 	}
 ?>
