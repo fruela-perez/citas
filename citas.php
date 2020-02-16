@@ -1,5 +1,7 @@
 <?php
-	$archivoCitas = __DIR__ . DIRECTORY_SEPARATOR . "citas.txt";
+	$archivoCitas = $argv [ 1 ];
+
+	if ( ! file_exists ( $archivoCitas ) ) die ();
 
 	$total = (int) str_replace( "\n", "", exec ( "wc -l " . $archivoCitas ) );		
 	$linea = rand ( 1, $total );
