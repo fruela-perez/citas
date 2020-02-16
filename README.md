@@ -21,8 +21,9 @@ Funciona en Linux y OS X (a lo mejor incluso en Windows, pero no me consta xD).
   `git clone https://github.com/fruela-perez/citas.git` 
 
 + Añadir en tu `~/.profile` (Linux) o `~/.bash_profile` (OS X) la línea:<br/><br/>
-  `php /ruta/citas/citas.php` <br/><br/>
+  `php /ruta/citas/citas.php /ruta_al_archivo_de_citas/archivo_citas.txt` <br/><br/>
   Ya haré un instalador *comme il faut*.
 
-+ Las citas están en el archivo `/ruta/citas/citas.txt`, con una cita por línea y el formato:<br/><br/>
-  `<autor>#<cita>`
++ El archivo de citas, debe tener una cita por línea y el formato:<br/><br/>
+  `<autor>#<cita>`<br><br>
+  Se incluye el archivo `citas.txt` como ejemplo.
