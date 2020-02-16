@@ -1,7 +1,7 @@
 <?php
 	$archivoCitas = __DIR__ . DIRECTORY_SEPARATOR . "citas.txt";
 
-	$total = exec ( "wc -l " . $archivoCitas );		
+	$total = str_replace( "\n", "", exec ( "wc -l " . $archivoCitas ) );		
 	$linea = rand ( 1, $total );
 
 	$fn = fopen ( $archivoCitas , "r" );
