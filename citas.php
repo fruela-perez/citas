@@ -26,7 +26,7 @@
 		
 		echo "\n"     .  romperLineas ( "«" . $fragmentos[1] . "»" ) . "\n";
 		echo "\033[1m" . $fragmentos[0] . "\033[0m"; // Autor en negrita
-		echo "\n";
+		echo "\n\n";
 }
 
 	function romperLineas ( $text ) 
