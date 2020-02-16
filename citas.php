@@ -1,5 +1,4 @@
 <?php
-
 	$archivoCitas = __DIR__ . DIRECTORY_SEPARATOR . "citas.txt";
 
 	$total = exec ( "wc -l " . $archivoCitas );		
@@ -23,15 +22,15 @@
 
 	function imprimir ( $linea )
 	{
-		$fragmentos = explode("#", $linea );
+		$fragmentos = explode ( "#", str_replace ( "\n", "", $linea ) );
 		
+		echo "\n"     .  romperLineas ( "«" . $fragmentos[1] . "»" ) . "\n";
+		echo "\033[1m" . $fragmentos[0] . "\033[0m"; // Autor en negrita
 		echo "\n";
-		echo $fragmentos[1];
+}
 
-		echo "\033[1m";
-		echo $fragmentos[0];
-		echo "\033[0m";
+	function romperLineas ( $text ) 
+	{                
+	     return wordwrap ( $text, str_replace ( "\n", "", shell_exec ( 'tput cols' ) ), "\n", false );
 	}
 ?>
-
-
