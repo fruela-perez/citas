@@ -26,7 +26,7 @@
 	{
 		$fragmentos = explode ( "#", str_replace ( PHP_EOL, "", $linea ) );
 		
-		echo PHP_EOL . wordwrap ( "«" . $fragmentos[1] . "»", str_replace ( PHP_EOL, "", shell_exec ( 'tput cols' ) ), PHP_EOL, false ) . PHP_EOL;
-		echo "\033[1m" . $fragmentos[0] . "\033[0m" . PHP_EOL . PHP_EOL; // Autor en negrita
+		echo PHP_EOL . wordwrap ( "«" . trim ( $fragmentos[1] ) . "»", str_replace ( PHP_EOL, "", shell_exec ( 'tput cols' ) ), PHP_EOL, false ) . PHP_EOL;
+		echo "\033[1m" . trim ( $fragmentos[0] ) . "\033[0m" . PHP_EOL . PHP_EOL; // Autor en negrita
 	}
 ?>
