@@ -1,28 +1,132 @@
-G.K. Chesterton#La Tradición es la transmisión del fuego, no la adoración de las cenizas.
-G.K. Chesterton#El periodismo consiste en buena medida en decir "Ha muerto el señor Jones" a gente que no sabía que existiera un tal señor Jones.
-G.K. Chesterton#El silencio es la réplica más aguda.
-G.K. Chesterton#La aventura podrá ser loca, pero el aventurero, para llevarla a cabo, ha de ser cuerdo.
-G.K. Chesterton#La mediocridad, posiblemente, consiste en estar delante de la grandeza y no darse cuenta.
-G.K. Chesterton#Una aventura es, por naturaleza, algo que nos sucede. Es algo que nos escoge a nosotros, no algo que nosotros escogemos.
+Agis II#Los espartanos no preguntan cuántos son los enemigos, sino dónde están.
+Alejandro#Ninguna fortaleza es tan inexpugnable que no puede entrar en ella un mulo cargado de oro.
+Otto von Bismarck#No podemos hacer la historia, sino solo esperar a que se desarrolle.
+Catón el Viejo#La primera virtud es frenar la lengua, y es casi un dios quien teniendo razón sabe callarse.
+Julio César#Los cobardes agonizan muchas veces antes de morir... Los valientes ni se enteran de su muerte.
+Julio César#Dile a tu amo que en César sólo manda César y nadie más.
+Julio César#Solo los cobardes son valientes con las mujeres.
+Julio César#Apresúrate despacio.
+Julio César#Beati Hispani quibus bibere vivere est. 
+Julio César#En la guerra los acontecimientos importantes son el resultado de causas triviales.
+Julio César#Es ley de guerra que los vencedores traten a los vencidos a su antojo.
+Julio César#Los hombres tienden a creer aquello que les conviene.
+Julio César#Mientras me quede algo por hacer, no habré hecho nada.
 Carl von Clausewitz#Los conflictos se resuelven por consenso o por violencia.
 Carl von Clausewitz#La guerra no es más que un duelo en una escala más amplia.
 Carl von Clausewitz#La guerra es la continuación de la política por otros medios.
-Carl von Clausewitz#En la filosofía de la guerra no se puede introducir en absoluto un principio modificador sin acabar cayendo en el absurdo.
-Carl von Clausewitz#¿Cuál es la idea fundamental de la defensa? Es la de parar un golpe. ¿Por qué señal se distingue? Se distingue porque en ella Martin Heidegger#La angustia es la disposición fundamental que nos coloca ante la nada.
+Confucio#Elige un trabajo que te guste y no tendrás que trabajar ni un día de tu vida.
+Hernán Cortés#Más vale morir con honra que vivir deshonrado.
+Miguel Delibes#Hemos matado la cultura campesina pero no la hemos sustituido por nada, al menos, por nada noble.
+John Dillinger#Guárdeselo, yo vine por el dinero del banco, no por el suyo.
+John Dillinger#Hoy puedes ser un héroe muerto o un cobarde con vida, tú decides.
+Alonso de Ercilla#El miedo es natural en el prudente, y el saberlo vencer es ser valiente.
+Alonso de Ercilla#El excesivo rigor en el castigo justifica la causa del enemigo.
+Alonso de Ercilla#La mucha alegría es presagio de tristeza.
+Alonso de Ercilla#Lo malo nunca lo es de repente.
+Alonso de Ercilla#No hay cosa más difícil, bien mirado, que conocer a un necio si es callado.
+Alonso de Ercilla#Que siempre por señales o razones se suelen descubrir las intenciones.
+Gonzalo Fernández de Córdoba#No cierres nunca la mano; no hay modo mejor de gozar de los bienes que dándolos.
+Henry Ford#Si le hubiera preguntado a la gente qué querían, habrían dicho caballos más rápidos.
+Henry Ford#Los obstáculos son las cosas horribles que ves al apartar los ojos de la meta.
+Henry Ford#Tanto si piensas que puedes, como si piensas que no puedes, estás en lo cierto.
+Henry Ford#Un negocio que solo hace dinero, es un negocio pobre.
+Henry Ford#No puedes aprender en el colegio lo que el mundo hará el próximo año.
+Henry Ford#El secreto para una vida exitosa es encontrar nuestro propósito y luego hacerlo.
+Henry Ford#No hay hombre vivo que no pueda hacer más de lo que él piensa que puede hacer.
+Henry Ford#Nada es especialmente difícil si lo divides en pequeños trabajos.
+Henry Ford#No encuentres fallos, encuentra un remedio.
+Henry Ford#Calidad significa hacer lo correcto cuando nadie está mirando.
+Henry Ford#Incluso un error puede resultar ser la única cosa necesaria para un valioso logro.
+Henry Ford#Cualquier cliente puede tener un coche pintado de cualquier color que quiera, siempre y cuando sea negro.
+Henry Ford#A medida que avanzamos en la vida aprendemos los límites de nuestras capacidades.
+Henry Ford#No puedes construir una reputación sobre algo que vas a hacer.
+Henry Ford#No puedo descubrir alguien que sepa lo suficiente para decir definitivamente qué es posible y qué imposible.
+Henry Ford#La mayoría de las personas gastan más tiempo y energía en rondar los problemas que en tratar de resolverlos.
+Henry Ford#Antes que nada, prepararse es el secreto del éxito.
+Henry Ford#El fracaso es simplemente una nueva oportunidad de empezar de nuevo, esta vez de forma más inteligente.
+Henry Ford#El competidor al que temer es aquel que nunca se preocupa por ti, pero sigue mejorando su propio negocio todo el tiempo.
+Henry Ford#La especulación es solo una palabra que cubre la fabricación de dinero a partir de la manipulación de los precios, en lugar de suministrar bienes y servicios.
+Henry Ford#No hay vergüenza en fracasos honestos; hay vergüenza en temer a fallar.
+Henry Ford#No hay grandes problemas, sólo hay un montón de pequeños problemas.
+Henry Ford#El único error real es aquel del que no aprendemos nada.
+Henry Ford#La visión sin ejecución es sólo una alucinación.
+Henry Ford#Si siempre haces lo que siempre has hecho, siempre obtendrás lo que siempre tienes.
+Henry Ford#La experiencia es algo de suprema importancia.
+Henry Ford#El genio raramente es reconocido por lo que es: una gran capacidad para el trabajo duro.
+Henry Ford#Los que renuncian son más numerosos que los que fracasan.
+Henry Ford#Para ver una cosa claramente en la mente, haz que comience a tomar forma.
+Henry Ford#Cuando pensamos que el día de mañana nunca llegará, ya se ha convertido en el ayer.
+Henry Ford#Imposible significa que no has encontrado la solución.
+Henry Ford#A ningún hombre debe obligársele a hacer el trabajo que puede hacer una máquina.
+Henry Ford#Dices que comencé con prácticamente nada, pero eso no es correcto. Todos comenzamos con todo lo que hay, es cómo lo usamos lo que hace que las cosas sean posibles.
+Henry Ford#El progreso ocurre cuando todos los factores que lo constituyen están listos, y entonces es inevitable.
+Henry Ford#No busques culpables, sino soluciones.
+Henry Ford#El ejercicio físico es un tontería. Si estás bien no lo necesitas y si estás mal no puedes hacerlo.
+Henry Ford#El fracaso es a veces más fructífero que el éxito.
+Henry Ford#Un aburrido es una persona que abre su boca y pone sus hazañas en ella.
+Henry Ford#El progreso de verdad es el que pone la tecnología al alcance de todos.
+Henry Ford#Los hombres superficiales creen en la suerte y las circunstancias. Los fuertes creen en las causas y sus efectos.
+Henry Ford#La vida es una serie de experiencias, cada una de las cuales la hace más grande, aunque a veces es difícil darse cuenta de eso.
+Henry Ford#La mediocridad es el peor enemigo de la prosperidad.
+Henry Ford#El mundo fue construido para desarrollar el carácter, y debemos aprender que los contratiempos y las aflicciones que causamos nos ayudan.
+Henry Ford#Es evidente que la gente de la nación no entiende el sistema monetario y bancario, porque si lo entendiese, creo que habría una revolución mañana por la mañana.
+Henry Ford#Una empresa absolutamente dedicada al servicio sólo tendrá una preocupación sobre las ganancias.
+Agustín de Foxá#Morir por la democracia es como morir por el sistema métrico decimal.
 Martin Heidegger#Quien piensa a lo grande tiene que equivocarse a lo grande.
-Martin Heidegger#Las Artes se convierten en instrumentos de información manipulados y manipuladores.
-Martin Heidegger#Todo lo grande está en medio de la tempestad.
-Martin Heidegger#Cuando el tiempo sólo sea rapidez, instantaneidad y simultaneidad, mientras que lo temporal, entendido como acontecer histórico, haya desaparecido de la existencia de todos los pueblos, entonces, justamente entonces, volverán a atravesar todo este aquelarre como fantasmas las preguntas: ¿para qué?, ¿hacia dónde?, ¿y después qué?
-Martin Heidegger#La gran tragedia del mundo es que no cultiva la memoria, y por tanto olvida a los maestros.
+Elbert Hubbard#Una máquina puede hacer el trabajo de 50 hombres corrientes. Pero no existe ninguna máquina que pueda hacer el trabajo de un hombre extraordinario.
+Emmanuel Kant#El sabio puede cambiar de opinión. El necio, nunca.
+Emmanuel Kant#Sapere Aude.
+Emmanuel Kant#Con el poder viene la responsabilidad.
+Emmanuel Kant#Haz lo que hay que hacer.
+Emmanuel Kant#La paciencia es la fortaleza del débil y la impaciencia la debilidad del fuerte.
+Emmanuel Kant#No son las consecuencias de la acción lo que hacen que sea buena o mala, sino cual es la motivación del individuo al llevar a cabo el acto.
+John Maynard Keynes#El mercado puede permanecer irracional más tiempo del que usted puede permanecer solvente.
 Jiddu Krishnamurti#No es signo de buena salud el estar bien adaptado a una sociedad profundamente enferma.
-Jiddu Krishnamurti#La pasión es una cosa bastante aterradora porque si tienes pasión no sabes dónde te llevará
-Jiddu Krishnamurti#Entre dos soluciones, opta siempre por la más generosa.
-Jiddu Krishnamurti#El simple observar requiere una claridad asombrosa; de lo contrario, no es posible observar.
+Jiddu Krishnamurti#La pasión es una cosa bastante aterradora porque si tienes pasión no sabes dónde te llevará.
+C.S. Lewis#Cuando todo el mundo corre hacia un acantilado, el que corre en la dirección opuesta parece haberse vuelto loco.
 Blas de Lezo#Todo buen español debería mear siempre mirando a Inglaterra.
-Erwin Rommel#En combate cercano, la victoria es del que tiene una bala más en el cargador.
+Mario Moreno#Algo malo debe tener el trabajo porque si no, los ricos lo habrían acaparado.
+Friedrich Nietzsche#El camino a todas las cosas grandes pasa por el silencio.
+Friedrich Nietzsche#Soportamos más fácilmente la mala conciencia que la mala reputación. 
+Friedrich Nietzsche#Por lo que más se nos castiga es por nuestras virtudes. 
+Friedrich Nietzsche#En la vida real no existen más que voluntades fuertes y voluntades débiles.
+Friedrich Nietzsche#No se odia a quien se desprecia; se odia a quien se estima igual o superior.
+Friedrich Nietzsche#De nadie estamos más lejos que de nosotros mismos.
+Friedrich Nietzsche#Las convicciones son prisiones. 
+Chuck Norris#La violencia es mi última opción a pesar de ser la respuesta a todo.
+Blaise Pascal#Lo último que uno sabe, es por donde empezar.
+Platón#Lo poco que sé se lo debo a mi ignorancia.
+Platón#El tiempo es una imagen móvil de la eternidad.
+Platón#La mayor declaración de amor es la que no se hace. El hombre que siente mucho, habla poco.
+Platón#Donde reina el amor, sobran las leyes.
+Platón#Cuando una multitud ejerce la autoridad, es más cruel aún que los tiranos.
+Platón#La música es para el alma lo que la gimnasia para el cuerpo.
+Platón#Los amigos se convierten con frecuencia en ladrones de nuestro tiempo.
+Platón#La mejor riqueza es contentarse viviendo con poco.
+Platón#El que aprende y aprende y no practica lo que sabe, es como el que ara y ara y no siembra.
+Platón#Buscando el bien de nuestros semejantes, encontramos el nuestro.
+Platón#La libertad consiste en ser dueños de la propia vida.
+Platón#El hombre que hace que todo lo que lleve a la felicidad dependa de él mismo, ya no de los demás, ha adoptado el mejor plan para vivir feliz.
+Platón#La filosofía es la ciencia de los hombres libres.
+Platón#El hombre sabio querrá estar siempre con quien sea mejor que él.
+Platón#No es en los hombres sino en las cosas donde hay que buscar la verdad.
+Plutarco#Quien tiene muchos vicios, tiene muchos amos.
+Arthur Schopenhauer#Bien puede decirse que la vida es un episodio que viene a perturbar inútilmente la sagrada paz de la nada.
+Arthur Schopenhauer#El destino es el que baraja las cartas, pero nosotros los que las jugamos.
+Arthur Schopenhauer#Hay solamente un error congénito y es la noción de que existimos para ser felices.
+Arthur Schopenhauer#Toda vida es sufrimiento.
+Arthur Schopenhauer#Uno debe acostumbrarse a oír todo sin inmutarse, incluso las historias más descabelladas, ponderando la insignificancia de quien habla y sus opiniones, y absteniéndose de cualquier discusión. Ello permitirá luego recordar la escena con satisfacción.
+Arthur Schopenhauer#Pocas veces pensamos en lo que tenemos; pero siempre en lo que nos falta.
+Arthur Schopenhauer#Predicar moral es fácil, mucho más fácil que ajustar la vida a la moral que se predica.
+Arthur Schopenhauer#Para hallar la razón ante los débiles y los imbéciles, la solución es no hablar con ellos.
+Arthur Schopenhauer#Nuestras virtudes morales favorecen principalmente a otros, las intelectuales, por el contrario, ante todo a nosotros. Por eso aquéllas nos hacen queridos de todos, y éstas, odiados.
+Arthur Schopenhauer#Para millones y millones de seres humanos el verdadero infierno es la tierra.
+Lucio Anneo Séneca#Aún caído, pelea de rodillas.
 Oswald Spengler#La única división natural del hombre es en fuertes y débiles, listos y tontos.
+Oswald Spengler#La vida es dura, si ha de ser grande. Solo admite elección entre victoria y derrota, no entre guerra y paz.
+Terencio#La verdad engendra odio.
+Santa Teresa de Jesús#Es preferible la Verdad en soledad al error en compañía.
 Sun Tzu#Maniobrar con un ejército es ventajoso. Maniobrar con una multitud indisciplinada, es peligroso.
-Sun Tzu#Llévalos a un punto del que no puedan salir, y morirán antes de poder escapar.
 Sun Tzu#Hacerte invencible significa conocerte a ti mismo.
 Sun Tzu#La invencibilidad es una cuestión de defensa, la vulnerabilidad es una cuestión de ataque.
 Sun Tzu#Si envías refuerzos a todas partes, serás débil en todas partes.
